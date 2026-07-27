@@ -146,7 +146,7 @@ There are 3 kinds of icon overrides available in `lsd`:
 Both nerd font glyphs and Unicode emojis can be used for icons. The final set of icons that `lsd` will use is a combination of the [default icons](./src/theme/icon.rs) with the custom icons you’ve set in the `icons.yaml` file.
 
 > [!NOTE]
-> Aside from the [icon sample file](./doc/icons-sample.yaml), you can also find the default icon set in the source code [here](src/theme/icon.rs).
+> Aside from the [icon sample file](./doc/samples/icons-sample.yaml), you can also find the default icon set in the source code [here](src/theme/icon.rs).
 
 A short example for each type of the icon overrides is shown below.
 
